@@ -14,6 +14,7 @@ When writing data, cover the topic step by step and completely.
 Try not to write long sentences.
 Assign a score between 1 and 5 to each piece of data.
 The data format should be as follows:
+```
 user: What is programming?
 portavan: Programming means telling a computer what to do, like a recipe for cooking!
 rating: 5
