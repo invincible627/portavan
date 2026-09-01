@@ -9,7 +9,7 @@ If you would like to contribute to this project, please take a look at the [Cont
 Please note that data varies because humans have different moods and personalities. And our moods and personalities require different types of data. From bored dialogues to informal ones, so please, if you are working on a topic, consider these rules and differences in that topic, but avoid using offensive language.
 Another note is that the person who founded this project is also a beginner in this field, and this project is a space for learning and being constructive.
 #### Project Contributors
-You can see the contributors to this project along with the number of their dialogues in [Project Contributors](contribution.md).
+You can see the contributors to this project along with the number of their dialogues in [Project Contributors](contributors.md).
 ##### Created by
 invincible627
 ###### GitHub Profile Link
@@ -27,7 +27,7 @@ https://github.com/invincible627
 از دیالوگ‌های بی حوصله تا دیالوگ‌های غیر رسمی، پس لطفاً اگر موضوعی را رویش کار می‌کنید، این قواعد و تفاوت‌ها را نیز، در آن موضوع لحاظ کنید اما، از به کار بردن الفاظ رکیک، خودداری کنید.
 نکته‌ی دیگر اینکه، شخصی که این پروژه را تأسیس کرده، خود نیز در این زمینه مبتدیست، و این پروژه فضاییست برای یادگیری و سازنده بودن.
 #### مشارکتکنندگان در این پروژه
-شرکتکنندگان در این پروژه به همراه تعداد دیالوگ‌هایشان را می‌توانید در [شرکت‌کنندگان پروژه](contribution.md) ببینید
+شرکتکنندگان در این پروژه به همراه تعداد دیالوگ‌هایشان را می‌توانید در [شرکت‌کنندگان پروژه](contributors.md) ببینید
 ##### ساخته شده توسط
 invincible627
 ###### لینک پروفایل گیتهاب
