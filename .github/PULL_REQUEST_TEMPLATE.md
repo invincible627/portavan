@@ -30,14 +30,14 @@
 <!-- Put an x in the brackets that apply, or check them manually. -->
 <!-- در هر براکتی که انجام شده، یک x قرار دهید. یا به صورت دستی تیک بزنید -->
 
-- [ ] I have read and accept the [License](LICENSE) rules.
-- [ ] قوانین [لایسنس](LICENSE) را خوانده‌ام و آن را می‌پذیرم.
+- [ ] I have read and accept the [License](portavan/LICENSE) rules.
+- [ ] قوانین [لایسنس](portavan/LICENSE) را خوانده‌ام و آن را می‌پذیرم.
 - [ ] The correct format for user and portavan questions/answers has been properly followed.
 - [ ] فرمت صحیح برای پرسش‌ها و پاسخ‌ها بین کاربر و پر‌توان به درستی رعایت شده است.
 - [ ] Ratings are logically recorded next to each dialogue.
 - [ ] امتیازها به صورت منطقی کنار هر دیالوگ ثبت شده است.
-- [ ] I have read the [Contribution Guide](contributing.md).
-- [ ] فایل [راهنمای مشارکت](contributing.md) را مطالعه کرده‌ام.
+- [ ] I have read the [Contribution Guide](portavan/contributing.md).
+- [ ] فایل [راهنمای مشارکت](portavan/contributing.md) را مطالعه کرده‌ام.
 - [ ] I have not added duplicate or irrelevant dialogues.
 - [ ] دیالوگ‌های تکراری یا بی‌ربط اضافه نکرده‌ام.
 - [ ] I have used English numbers (e.g., `5`) for ratings.
