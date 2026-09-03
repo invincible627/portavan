@@ -1,7 +1,7 @@
 # portavan
 portavan AI Model: From Training to Development and Coding
 The goal of this project is to build a model from scratch and prepare its data.
-Please take a look at the [License](portavan/LICENSE) before doing anything.
+Please take a look at the [License](https://github.com/invincible627/portavan?tab=License-1-ov-file) before doing anything.
 ## Available Languages
 Persian and English
 ### Important Notes
@@ -18,7 +18,7 @@ https://github.com/invincible627
 # پر‌توان
 مدل هوش مصنوعی پر‌توان، از آموزش تا ساخت و کدنویسی
 در این پروژه هدف این است که یک مدل را از پایه بسازیم، و داده‌های آن را آماده کنیم.
-لطفاً قبل از انجام هر کاری، نگاهی به [لایسنس](portavan/LICENSE) پروژه بی‌اندازید.
+لطفاً قبل از انجام هر کاری، نگاهی به [لایسنس](https://github.com/invincible627/portavan?tab=License-1-ov-file) پروژه بی‌اندازید.
 ## زبان های در دسترس
 فارسی و انگلیسی
 ### نکات قابل توجه

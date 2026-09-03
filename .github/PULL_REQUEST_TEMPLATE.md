@@ -30,8 +30,8 @@
 <!-- Put an x in the brackets that apply, or check them manually. -->
 <!-- در هر براکتی که انجام شده، یک x قرار دهید. یا به صورت دستی تیک بزنید -->
 
-- [ ] I have read and accept the [License](portavan/LICENSE) rules.
-- [ ] قوانین [لایسنس](portavan/LICENSE) را خوانده‌ام و آن را می‌پذیرم.
+- [ ] I have read and accept the [License](https://github.com/invincible627/portavan?tab=License-1-ov-file) rules.
+- [ ] قوانین [لایسنس](https://github.com/invincible627/portavan?tab=License-1-ov-file) را خوانده‌ام و آن را می‌پذیرم.
 - [ ] The correct format for user and portavan questions/answers has been properly followed.
 - [ ] فرمت صحیح برای پرسش‌ها و پاسخ‌ها بین کاربر و پر‌توان به درستی رعایت شده است.
 - [ ] Ratings are logically recorded next to each dialogue.
