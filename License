@@ -1,6 +1,7 @@
 portavan AI Project License
 Welcome to the portavan AI project.
 The goal of this project is to build and train a conversational AI model from the ground up. Given the significant time and effort invested in producing the textual data for this project, please carefully read the following rules.
+These rules have been established to protect the rights of all team members and to ensure that their contributions are respected and not misused.
 Data Usage Rules
 1. Copying is prohibited.
 No one has the right to copy, distribute, publish, or store the data of this project on other platforms without the written permission of the portavan team.
@@ -11,13 +12,19 @@ Individuals and researchers may use the data for educational, research, or perso
 Rules for portavan Team Members
 1. Each team member owns the dialogues they have personally created and may use them for personal non-commercial projects.
 2. The use of dialogues produced by other members is prohibited without their explicit permission.
-3. In the event of any violation of the rules (copying, selling, or unauthorized use of others' data), the offending member will be expelled from the portavan team and their access to the repository and all data will be revoked.
+3. In the event of any violation of the rules (copying, selling, or unauthorized use of others' data), the offending member will be expelled from the portavan team and their access to the repository, all data, and the Telegram group will be revoked.
+Code Usage Rules
+1. The source code of this project is also subject to this license, unless otherwise stated in a separate file.
+2. You are permitted to view, fork, and modify the code for personal, educational, or non-commercial research purposes.
+3. You are not permitted to use the code or any derivative of it for commercial purposes without obtaining a separate commercial license from the portavan team.
+4. Any distribution of the code, whether modified or unmodified, must retain this license notice and give appropriate credit to the portavan team.
 Thank you for taking the time to read this license. We appreciate your respect for the efforts of the portavan team.
 portavan Team - Building a smart future with ethical data.
 
 لایسنس پروژه‌ی هوش مصنوعی پر‌توان
 به پروژه‌ی هوش مصنوعی پر‌توان خوش آمدید.
 هدف این پروژه، ساخت و آموزش یک مدل هوش مصنوعی مکالمه‌محور از پایه است. با توجه به زمان و انرژی قابل‌توجهی که برای تولید داده‌های متنی این پروژه صرف شده، لطفاً قوانین زیر را به دقت مطالعه فرمایید.
+این قوانین به منظور حفظ حقوق اعضای تیم و جلوگیری از هرگونه سوءاستفاده از زحمات آن‌ها وضع شده است.
 قوانین استفاده از داده‌ها
 ۱. کپی‌برداری ممنوع است.
 هیچ‌کس حق کپی، توزیع، انتشار، یا ذخیره‌سازی داده‌های این پروژه را در بسترهای دیگر، بدون اجازه‌ی کتبی تیم پر‌توان، ندارد.
@@ -28,6 +35,11 @@ portavan Team - Building a smart future with ethical data.
 قوانین مربوط به اعضای تیم پر‌توان
 ۱. هر عضو تیم، مالک دیالوگ‌هایی است که خودش تولید کرده است و می‌تواند از آن‌ها برای پروژه‌های شخصی غیرتجاری استفاده کند.
 ۲. استفاده از دیالوگ‌های تولیدشده توسط سایر اعضا، بدون اجازه‌ی صریح آن‌ها، ممنوع است.
-۳. در صورت مشاهده‌ی هرگونه نقض قوانین (کپی، فروش، یا استفاده‌ی غیرمجاز از داده‌های دیگران)، عضو متخلف از تیم پر‌توان اخراج شده و دسترسی‌اش به مخزن و تمام داده‌ها قطع می‌گردد.
+۳. در صورت مشاهده‌ی هرگونه نقض قوانین (کپی، فروش، یا استفاده‌ی غیرمجاز از داده‌های دیگران)، عضو متخلف از تیم پر‌توان اخراج شده و دسترسی‌اش به مخزن، تمام داده‌ها و گروه تلگرامی قطع می‌گردد.
+قوانین استفاده از کد
+۱. کد منبع این پروژه نیز تحت همین لایسنس است، مگر اینکه در فایل جداگانه‌ای به‌طور دیگری ذکر شده باشد.
+۲. مشاهده، فورک و تغییر کد برای اهداف شخصی، آموزشی یا پژوهشی غیرتجاری مجاز است.
+۳. استفاده از کد یا هرگونه مشتق از آن برای مقاصد تجاری، بدون دریافت مجوز جداگانه از تیم پر‌توان، مجاز نیست.
+۴. هرگونه توزیع کد، چه تغییر یافته و چه تغییر نیافته، باید شامل این متن لایسنس بوده و تیم پر‌توان را به عنوان منبع ذکر نماید.
 از اینکه وقت خود را برای مطالعه‌ی این لایسنس اختصاص دادید، صمیمانه سپاسگزاریم. قدردان احترام شما به زحمات تیم پر‌توان هستیم.
 تیم پر‌توان - ساخت آینده‌ای هوشمند، با داده‌هایی اخلاقی

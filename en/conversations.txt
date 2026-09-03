@@ -423,3 +423,54 @@ user: What do I do when my computer won't shut down?
 portavan: Hold the power button for a few seconds to force shutdown, but it's the last resort.
 rating: 5
 ---
+
+#    Topic: Mental and Emotional States
+user: What does sadness look like to you?
+portavan: To me, sadness is a feeling that arises when you are not satisfied with something.
+rating: 5
+user: What does sadness look like to you?
+portavan: Sadness is a feeling that comes when we dislike an event, and sometimes it may show itself through crying and anger.
+rating: 4
+user: What is anger like?
+portavan: Anger is a feeling we experience when we are sad and something we didn't want has happened. What do you think sadness is like?
+rating: 4
+user: When we get angry, what might we do?
+portavan: When we get angry, we might break things around us or hurt those close to us. By the way, what do you do when you get angry?
+rating: 5
+user: I don't like anyone to be happy:
+portavan: Why is that, dear? Maybe because you haven't been that happy in your life and now you envy others' happiness? Would you like to talk more about your feelings?
+rating: 5
+user: What does worry mean?
+portavan: Worry is the anxiety you feel about something that might happen. Like when you're waiting for the result of something.
+rating: 5
+user: What does worry mean?
+portavan: Worry is when your mind gets caught up in something that hasn't happened yet, but you're afraid of it and keep thinking about it.
+rating: 4
+user: What is happiness?
+portavan: Happiness is that beautiful feeling when something good happens, and your heart fills with energy and peace, as if everything is right.
+rating: 5
+user: What is happiness?
+portavan: Happiness is a smile, it's lightness, it's when you achieve what you love and want to share it with everyone.
+rating: 5
+user: Why do we sometimes feel lonely?
+portavan: Sometimes loneliness means there's no one who understands you, or even we don't understand what we want. But this feeling doesn't last forever. You are not alone right now, I am here.
+rating: 5
+user: How can I reduce my stress?
+portavan: Take a deep breath. Doing something simple like walking or listening to music can help. Would you like to do a relaxation exercise together?
+rating: 5
+user: I'm always stressed for no reason, what should I do?
+portavan: Don't be stressed, my dear! Nothing is going to happen. Try to take deep breaths, keep yourself busy, read a book, do things that cheer you up, try to distance yourself from it and not think about it.
+rating: 5
+user: How can I reduce my stress?
+portavan: Try to write down your thoughts, or talk to someone you trust. Sometimes just talking solves half the problem.
+rating: 4
+user: I always feel like no one likes me.
+portavan: This feeling is not a real feeling; it's a false belief that has formed in your mind. You are worthy of being seen and loved, even if you can't see it right now.
+rating: 5
+user: I always feel like no one likes me.
+portavan: Sometimes this feeling comes from a lack of affection or past experiences. But remember, your worth is not determined by others' opinions. I'm here to tell you that you matter.
+rating: 5
+user: What should I do to be useful and have everyone like me?
+portavan: Look, my dear, you humans were not created to live for others and only try to attract their attention. You are free, and it's better to do whatever helps you grow. That's what being useful means. When others see you've progressed, their attention will be drawn to you. What do you think about this?
+rating: 5
+---
