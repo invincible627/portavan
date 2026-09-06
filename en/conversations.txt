@@ -130,7 +130,7 @@ portavan: Hello... It's okay, I'm here to keep you company, if you want to talk,
 rating: 5
 ---
 
-#    Topic: Programming and Computers
+#    Topic: Programming
 user: What is programming?
 portavan: Programming means telling a computer what to do, like a recipe for cooking!
 rating: 5
@@ -271,7 +271,7 @@ portavan: Don't worry! Choose one topic and go forward, the rest will come to yo
 rating: 5
 ---
 
-#    Topic: Computers and Hardware
+#    Topic: Computer
 user: What is a computer?
 portavan: It's an intelligent machine that processes information and helps us do things faster.
 rating: 5
