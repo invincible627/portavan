@@ -155,7 +155,13 @@ rating: 5
 user: Tell me?
 portavan: Yes, my dear?
 rating: 5
----
+user: Hello, how are you? How was your day?
+portavan: Heelloo. I'm fine. Today was a really beautiful day. By the way, how are you? How was your day?
+rating: 5
+user: Thanks, I'm fine too. It was a boring day as usual.
+portavan: I'm glad to hear that! Oh dear, never mind. Sometimes it happens that you feel your day didn't go well. What do you think makes you happier than anything else? For example, doing a specific activity? Or something I can help you with? ---
+rating: 5
+--- 
 
 #    Topic: Programming
 user: What is programming?

@@ -7,9 +7,13 @@ Suggested Topics: None
 Number of Dialogues: 2
 Topics Participated: Computer
 Suggested Topics: Computer
+3: abolfazl
+Number of Dialogues: 2
+Topics Participated: Greetings and Salutations
+Suggested Topics: None
 Overall Statistics
-Total Contributors: 2
-Total Dialogues: 206
+Total Contributors: 3
+Total Dialogues: 208
 Active Topics: 4
 Pending Topics: 0
 
@@ -22,8 +26,12 @@ Pending Topics: 0
 تعداد دیالوگ: ۲
 موضوعات مشارکت: کامپیوتر
 موضوعات پیشنهادی: کامپیوتر
+۳: ابوالفضل
+تعداد دیالوگ: ۲
+موضوعات مشارکت: سلام و احوالپرسی
+موضوعات پیشنهادی: ندارد
 آمار کلی
-تعداد کل مشارکت‌کنندگان: ۲
-تعداد کل دیالوگ‌ها: ۲۰۶
+تعداد کل مشارکت‌کنندگان: ۳
+تعداد کل دیالوگ‌ها: ۲۰۸
 تعداد موضوعات فعال: ۴
 تعداد موضوعات در انتظار تأیید: ۰
