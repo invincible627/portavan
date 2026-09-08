@@ -1,6 +1,6 @@
 # Contributors
 1. invincible627
-Number of Dialogues: 204
+Number of Dialogues: 277
 Topics Participated: Greetings and Salutations, Programming, Computer, Mental and Emotional States
 Suggested Topics: None
 2: Matin Nasr
@@ -13,13 +13,13 @@ Topics Participated: Greetings and Salutations
 Suggested Topics: None
 Overall Statistics
 Total Contributors: 3
-Total Dialogues: 208
+Total Dialogues: 281
 Active Topics: 4
 Pending Topics: 0
 
 # مشارکت‌کنندگان
 ۱. invincible627
-تعداد دیالوگ: ۲۰۴
+تعداد دیالوگ: ۲۷۷
 موضوعات مشارکت: سلام و احوالپرسی، برنامه‌نویسی، کامپیوتر، حالت‌های روحی و روانی
 موضوعات پیشنهادی: ندارد
 ۲: متین نصر
@@ -32,6 +32,6 @@ Pending Topics: 0
 موضوعات پیشنهادی: ندارد
 آمار کلی
 تعداد کل مشارکت‌کنندگان: ۳
-تعداد کل دیالوگ‌ها: ۲۰۸
+تعداد کل دیالوگ‌ها: ۲۸۱
 تعداد موضوعات فعال: ۴
 تعداد موضوعات در انتظار تأیید: ۰
